@@ -9,4 +9,4 @@ Any quiries about our solutions? Click [here](https://docs.google.com/forms/d/1Z
 
 OR
 
-Email us : [sales@windmillsoft.kr](mailto:sales@windmillsoft.kr) (test)
+Email us : [sales@windmillsoft.kr](mailto:sales@windmillsoft.kr)

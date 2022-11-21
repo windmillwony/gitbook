@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/header6 (1).jpeg
+cover: ../../.gitbook/assets/header6.jpeg
 coverY: 0
 ---
 
@@ -11,11 +11,10 @@ However, still numerous developers are allocated to a lot of Enterprise level pr
 
 <figure><img src="../../.gitbook/assets/3 types of the most common Salesforce.com Code-Base Customization.png" alt=""><figcaption><p>3 types of the most common Salesforce.com Code-Base Customization</p></figcaption></figure>
 
-Coding is the most powerful way to implement complex and unique customer requirements on the Salesforce platform. However, when considering developer costs and time as well as maintenance costs, it is also the last option to consider.&#x20;
+Coding is the most powerful way to implement complex and unique customer requirements on the Salesforce platform. However, when considering developer costs and time as well as maintenance costs, it is also the last option to consider.
 
 **Windmillsoft's No-Code solution, Dynamic Builder, is an add-on solution for admins developed to implement customer requirements on the Salesforce.com platform with Drag & Drop and Point & Click methods, which were previously only possible with coding.**
 
 Dynamic Builder consists of the following three modules.
 
 <figure><img src="../../.gitbook/assets/Dymamic builder product line.png" alt=""><figcaption><p>Dynamic Builder Modules</p></figcaption></figure>
-

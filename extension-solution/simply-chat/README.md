@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/header2.jpeg
+cover: ../../.gitbook/assets/header2 (1).jpeg
 coverY: -3700.3116883116877
 ---
 
