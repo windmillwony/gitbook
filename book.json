@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "G-X04HGM0HNE"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://www.windmillsoft.io"
+    }
+}
