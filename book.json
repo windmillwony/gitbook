@@ -1,1 +1,11 @@
-
+{
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-249857782-1"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://www.windmillsoft.io"
+    }
+}
